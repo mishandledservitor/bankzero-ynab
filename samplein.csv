@@ -1,0 +1,36 @@
+Transaction Id,Date,Day,Time,Type,Description 1,Description 2,Fee,Amount,Balance,Has Attachments
+1 ,2026-04-01,Wed,21:02,Debit Order,STRATUM @ Firstrand,STRATUM   400415819 NETCASH,0.00, -539.00,790.67,No
+2 ,2026-04-01,Wed,20:59,Debit Order,BON4710027 @ Nedbank,BON47100272571 CONTRA,0.00, -4837.00,1329.67,No
+3 ,2026-04-01,Wed,13:34,Payment Out,1Stop Auto,STR001 - 8223,0.00, -1795.00,6166.67,No
+4 ,2026-04-01,Wed,12:25,Transfer In,Savings,Transfer ,0.00, 2000.00,7961.67,No
+5 ,2026-04-01,Wed,12:00,Card Purchase,"Anthropic, United States","11.50 USD (@ rate R17.55), Online transaction",0.00, -201.79,5961.67,No
+6 ,2026-04-01,Wed,11:09,Card Purchase,Starbucks Fx Cw 2,"Western Cape, Dip Transaction",0.00, -50.00,6163.46,No
+7 ,2026-04-01,Wed,07:20,Phone Tap,Yoco   *paarden Eiland,"Cape Town, Apple Pay on Simon’s IPhone 13",0.00, -95.70,6213.46,No
+8 ,2026-04-01,Wed,06:48,Transfer In,Savings,Transfer,0.00, 1000.00,6309.16,No
+9 ,2026-04-01,Wed,06:47,Payment Out,Kin Culture Npc,S Strehler,0.00, -1250.00,5309.16,No
+10 ,2026-04-01,Wed,06:41,Transfer In,Savings,Transfer,0.00, 1238.41,6559.16,No
+11 ,2026-04-01,Wed,06:38,Card Purchase,Naked Insurance,"Johannesburg, Online Transaction",0.00, -239.68,5320.75,No
+12 ,2026-04-01,Wed,04:34,Card Purchase,Afrihost.com,"Johannesburg, Online Transaction",0.00, -525.00,5560.43,No
+13 ,2026-03-31,Tue,19:17,Transfer In,Savings,Transfer,0.00, 2000.00,6085.43,No
+14 ,2026-03-31,Tue,19:16,Card Purchase,"Claude.ai Subscription, United States","96.06 USD (@ rate R17.53), Online transaction",0.00, -1684.17,4085.43,No
+15 ,2026-03-31,Tue,14:35,Phone Tap,Pnp Crp Gardens,"Cape Town, Apple Pay on Simon’s IPhone 13",0.00, -390.22,5769.60,No
+16 ,2026-03-31,Tue,11:29,Card Purchase,"Anthropic, United States","11.50 USD (@ rate R17.53), Online transaction",0.00, -201.63,6159.82,No
+17 ,2026-03-31,Tue,07:58,Card Purchase,"Anthropic, United States","5.75 USD (@ rate R17.53), Online transaction",0.00, -100.81,6361.45,No
+18 ,2026-03-30,Mon,12:07,Phone Tap,Kwikspar Kloof,"Western Cape, Apple Pay on Simon’s IPhone 13",0.00, -30.00,6462.26,No
+19 ,2026-03-30,Mon,10:17,Phone Tap,Vine And Dandy - Newla,"Cape Town, Apple Pay on Simon’s IPhone 13",0.00, -40.00,6492.26,No
+20 ,2026-03-30,Mon,10:16,Phone Tap,Vine And Dandy - Newla,"Cape Town, Apple Pay on Simon’s IPhone 13",0.00, -42.00,6532.26,No
+21 ,2026-03-29,Sun,17:42,Transfer In,Savings,Transfer,0.00, 1000.00,6574.26,No
+22 ,2026-03-29,Sun,09:02,Card Purchase,"Apple.com/bill, Ireland","149.99 ZAR (@ rate R1.00), Online transaction",0.00, -149.99,5574.26,No
+23 ,2026-03-28,Sat,15:26,Card Purchase,"Anthropic, United States","5.75 USD (@ rate R17.54), Online transaction",0.00, -100.87,5724.25,No
+24 ,2026-03-28,Sat,11:00,Card Purchase,Checkers Sixty60 Tips,"Cape Town, Online Transaction",0.00, -50.00,5825.12,No
+25 ,2026-03-28,Sat,11:00,Card Purchase,Checkers Sixty60,"Cape Town, Online Transaction",0.00, -387.91,5875.12,No
+26 ,2026-03-28,Sat,07:30,Card Purchase,"Coursera*649703796, United States","29.00 USD (@ rate R17.54), Online transaction",0.00, -508.78,6263.03,No
+27 ,2026-03-27,Fri,17:00,Card Purchase,"Anthropic, United States","5.75 USD (@ rate R17.43), Online transaction",0.00, -100.25,6771.81,No
+28 ,2026-03-27,Fri,10:06,Phone Tap,Engen Oranje Service S,"Cape Town, Apple Pay on Simon’s IPhone 13",0.00, -492.00,6872.06,No
+29 ,2026-03-26,Thu,18:11,Card Purchase,"Netflix.com, Netherlands","99.00 ZAR (@ rate R1.00), Online transaction",0.00, -99.00,7364.06,No
+30 ,2026-03-26,Thu,14:08,Phone Tap,Ik *the Family Doctor,"Cape Town, Apple Pay on Simon’s IPhone 13",0.00, -775.00,7463.06,No
+31 ,2026-03-26,Thu,07:47,Card Purchase,"Claude.ai Subscription, United States","23.00 USD (@ rate R17.45), Online transaction",0.00, -401.32,8238.06,No
+32 ,2026-03-26,Thu,07:19,Phone Tap,Kwikspar Kloof,"Western Cape, Apple Pay on Simon’s IPhone 13",0.00, -59.98,8639.38,No
+33 ,2026-03-26,Thu,06:24,Transfer In,Savings,Transfer,0.00, 6900.00,8699.36,No
+34 ,2026-03-26,Thu,06:23,Payment Out,Jan Thomas,Apr Rent,0.00, -3000.00,1799.36,No
+35 ,2026-03-26,Thu,06:22,Payment Out,Quakers Saf,QBI monthly,0.00, -500.00,4799.36,No
