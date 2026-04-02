@@ -1,0 +1,4 @@
+input/*.csv
+output/*.csv
+archive/*.csv
+__pycache__/
