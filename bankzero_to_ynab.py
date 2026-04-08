@@ -83,7 +83,6 @@ def preview_transactions(rows: list[dict]) -> None:
 
 def convert(rows: list[dict], max_txn_id: int | None = None) -> tuple[str, int]:
     out = io.StringIO()
-    out.write("\n")
     writer = csv.writer(out)
     writer.writerow(["Date", "Payee", "Memo", "Amount", "Balance"])
 

@@ -58,12 +58,9 @@ Copy Bank Zero CSVs into the `input/` folder, then double-click `run.command` to
 ## Output format
 
 ```csv
-
 Date,Payee,Memo,Amount,Balance
 2026-04-01,STRATUM @ Firstrand,STRATUM   400415819 NETCASH,-539,790.67
 ```
-
-The output starts with a blank line followed by the YNAB-compatible header and data rows.
 
 ## Versioning
 

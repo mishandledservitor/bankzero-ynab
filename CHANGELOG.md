@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Versioning follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.1] - 2026-04-08
+
+### Fixed
+
+- Removed stray leading blank line in output CSV that was breaking YNAB import
+
 ## [1.3.0] - 2026-04-02
 
 ### Added
